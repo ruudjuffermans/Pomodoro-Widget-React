@@ -1,0 +1,15 @@
+.app__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.pomodoro__wrapper {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 40px;
+    border-radius: 6px;
+    color: white;
+
+}

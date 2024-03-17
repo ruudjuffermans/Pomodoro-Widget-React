@@ -1,0 +1,10 @@
+.number__wrapper {
+    padding: 5px;
+    /* background-color: pink; */
+    display: inline-block;
+}
+
+.button__row {
+    display: flex;
+    gap: 10px;
+}
